@@ -1,2 +1,7 @@
 # api-coronavirus
-API built using .net to save and consult informations of coronavirus patients in a MongoDB
+- API built using .NET to save and consult informations of coronavirus patients in a MongoDB.
+- A image was created and push to a container registry on Azure.
+
+# #TODO:
+- Built an interface in Angular to receive and return the data to the user using the API
+- Create tests using Cypress to check the application flow on container
